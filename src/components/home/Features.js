@@ -2,8 +2,8 @@ import { CheckIcon } from '@heroicons/react/24/outline'
 
 const features = [
   {
-    name: 'Invite team members',
-    description: 'You can manage phone, email and chat conversations all from a single mailbox.',
+    name: 'Contacto directo',
+    description: 'Puedes gestionar conversaciones telefónicas, por correo electrónico y por chat desde un único buzón.',
   },
   { name: 'List view', description: 'You can manage phone, email and chat conversations all from a single mailbox.' },
   {
@@ -22,10 +22,10 @@ export default function Features() {
     <div className="bg-white">
       <div className="mx-auto  max-w-full py-16  px-12 lg:grid lg:grid-cols-3 lg:gap-x-8 lg:py-24">
         <div>
-          <h2 className="text-lg font-semibold text-orange-2">Everything you need</h2>
-          <p className="mt-2 text-3xl font-bold tracking-tight text-gray-900">All-in-one platform</p>
+          <h2 className="text-lg font-semibold text-orange-2">Lo que necesitas</h2>
+          <p className="mt-2 text-3xl font-bold tracking-tight text-gray-900">Todo en una plataforma</p>
           <p className="mt-4 text-lg text-gray-500">
-            Ac euismod vel sit maecenas id pellentesque eu sed consectetur. Malesuada adipiscing sagittis vel nulla nec.
+          Somos una agencia de desarrollo de software especializada en soluciones personalizadas para empresas. Ofrecemos servicios de desarrollo web y móvil, consultoría y soporte técnico. Utilizamos las últimas tecnologías y contamos con un equipo altamente capacitado.
           </p>
         </div>
         <div className="mt-12 lg:col-span-2 lg:mt-0">

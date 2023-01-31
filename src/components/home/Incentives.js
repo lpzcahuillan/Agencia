@@ -24,12 +24,10 @@ const incentives = [
           <div className="mx-auto max-w-2xl px-4 lg:max-w-none">
             <div className="max-w-3xl">
               <h2 className="text-4xl font-bold tracking-tight text-gray-900">
-                We built our business on customer service
+                Construimos nuestro negocio en el servicio al cliente
               </h2>
               <p className="mt-4 text-gray-500">
-                At the beginning at least, but then we realized we could make a lot more money if we kinda stopped caring
-                about that. Our new strategy is to write a bunch of things that look really good in the headlines, then
-                clarify in the small print but hope people don't actually read it.
+              Somos una agencia de desarrollo de software especializada en soluciones personalizadas para empresas. Ofrecemos servicios de desarrollo web y móvil, consultoría y soporte técnico. Utilizamos las últimas tecnologías y contamos con un equipo altamente capacitado.
               </p>
             </div>
             <div className="mt-16 grid grid-cols-1 gap-y-10 gap-x-8 lg:grid-cols-3">

@@ -26,9 +26,8 @@ function Home(){
                 {/* Content goes here */}
             
                 <Header/>
-                <Incentives/>
-                <UseCases/>
                 <Features/>
+                <UseCases/>
                 <CTA/>
                 <LogoCloud/>
                 <BlogList/>
